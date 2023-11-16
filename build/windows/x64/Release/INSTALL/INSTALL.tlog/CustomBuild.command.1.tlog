@@ -1,0 +1,10 @@
+^C:\USERS\EDGAR\DESKTOP\TRABAJOS\FLUTTER_ESTUDIANTES_CODE\STUDENT_MAINTENANCE_ACTUALIZADO\BUILD\WINDOWS\CMAKEFILES\FCAD14E5E112CD0062D96FE94A587443\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

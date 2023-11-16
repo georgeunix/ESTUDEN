@@ -1,0 +1,10 @@
+^C:\USERS\EDGAR\DESKTOP\TRABAJOS\FLUTTER_ESTUDIANTES_CODE\STUDENT_MAINTENANCE_ACTUALIZADO\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Edgar/Desktop/Trabajos/FLUTTER_ESTUDIANTES_CODE/student_maintenance_actualizado/windows -BC:/Users/Edgar/Desktop/Trabajos/FLUTTER_ESTUDIANTES_CODE/student_maintenance_actualizado/build/windows --check-stamp-file C:/Users/Edgar/Desktop/Trabajos/FLUTTER_ESTUDIANTES_CODE/student_maintenance_actualizado/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

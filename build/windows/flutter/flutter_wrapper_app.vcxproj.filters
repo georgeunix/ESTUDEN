@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Edgar\Desktop\Trabajos\FLUTTER_ESTUDIANTES_CODE\student_maintenance_actualizado\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edgar\Desktop\Trabajos\FLUTTER_ESTUDIANTES_CODE\student_maintenance_actualizado\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edgar\Desktop\Trabajos\FLUTTER_ESTUDIANTES_CODE\student_maintenance_actualizado\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edgar\Desktop\Trabajos\FLUTTER_ESTUDIANTES_CODE\student_maintenance_actualizado\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Edgar\Desktop\Trabajos\FLUTTER_ESTUDIANTES_CODE\student_maintenance_actualizado\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5CBFD9AD-8D58-3B12-8419-A30FC08F2E7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F0AA773A-89AE-3D30-B3DC-BD9718E8F040}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

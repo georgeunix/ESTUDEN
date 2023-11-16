@@ -1,0 +1,4 @@
+#Wed Nov 15 14:26:38 PET 2023
+base.0=C\:\\Users\\Edgar\\Desktop\\Trabajos\\FLUTTER_ESTUDIANTES_CODE\\student_maintenance_actualizado\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

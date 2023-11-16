@@ -1,0 +1,4 @@
+#Wed Nov 15 20:59:00 PET 2023
+base.0=C\:\\Users\\Edgar\\Desktop\\Trabajos\\FLUTTER_ESTUDIANTES_CODE\\student_maintenance_actualizado\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
